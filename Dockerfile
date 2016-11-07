@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM rhel7.2
+FROM registry.access.redhat.com/rhel7.2
 
 MAINTAINER Sonatype <cloud-ops@sonatype.com>
 
